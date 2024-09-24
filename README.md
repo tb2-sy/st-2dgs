@@ -11,8 +11,8 @@
     <a href="https://scholar.google.com.sg/citations?user=fe-1v0MAAAAJ&hl=en"><strong>Shenghua Gao<sup>2</sup></strong></a>
     <br>
     <br>
-        <a href="https://drive.google.com/file/d/1gvpERyJWntQM-HaddjJ8EsNpLLKzWBYI/view?usp=sharing"><img src='https://img.shields.io/badge/Paper-yellow' alt='Paper PDF'></a>
         <a href="https://tb2-sy.github.io/st-2dgs/"><img src='https://img.shields.io/badge/Project_Page-green' alt='Project Page'></a>
+        <a href="https://drive.google.com/file/d/1gvpERyJWntQM-HaddjJ8EsNpLLKzWBYI/view?usp=sharing"><img src='https://img.shields.io/badge/Paper-yellow' alt='Paper PDF'></a>
     <br>
     <b> ShanghaiTech University |&nbsp;The University of Hong Kong  </b>
     </p>
