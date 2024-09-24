@@ -11,7 +11,14 @@
   </table>
   
 # Demo
-https://github.com/tb2-sy/st-2dgs/assets/videos/103cf1f1-5808-4b52-856c-e27634414749
+  <table align="center">
+    <tr>
+    <td>
+      <img src="assets/videos/output.gif">
+    </td>
+    </tr>
+  </table>
+
 
 # Code
 
