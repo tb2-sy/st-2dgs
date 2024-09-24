@@ -1,7 +1,22 @@
 <p align="center">
 
   <h1 align="center">Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes</h1>
-
+  <p align="center">
+    Shuo Wang<sup>1</sup></strong></a>
+    ·
+    Binbin Huang<sup>2</sup></strong></a>
+    ·
+    Ruoyu Wang<sup>1</sup></strong></a>
+    ·
+    <a href="https://scholar.google.com.sg/citations?user=fe-1v0MAAAAJ&hl=en"><strong>Shenghua Gao<sup>2</sup></strong></a>
+    <br>
+    <br>
+        <a href="https://arxiv.org/abs/2409.16XXX"><img src='https://img.shields.io/badge/arXiv-ST2DGS-red' alt='Paper PDF'></a>
+        <a href="https://tb2-sy.github.io/st-2dgs/"><img src='https://img.shields.io/badge/Project_Page-ST2DGS-green' alt='Project Page'></a>
+    <br>
+    <b> ShanghaiTech University |&nbsp;The University of Hong Kong  </b>
+    </p>
+    
   <table align="center">
     <tr>
     <td>
